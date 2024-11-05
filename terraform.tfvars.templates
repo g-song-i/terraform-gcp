@@ -1,0 +1,9 @@
+project_id = 
+region     = 
+zone       = 
+subnet_one_name = 
+subnet_two_name = 
+subnet_one_cidr = 
+subnet_two_cidr = 
+instance_one_name = 
+instance_two_name = 
